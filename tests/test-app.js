@@ -23,7 +23,7 @@ describe('GET /', () => {
   });
 });
 
-describe('POST /', () => {
+/*describe('POST /', () => {
     it('should fail with error', (done) => {
         chai.request(app)
             .post('/')
@@ -34,4 +34,4 @@ describe('POST /', () => {
                 done();
             });
     });
-});
+});*/
