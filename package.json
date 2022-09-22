@@ -23,7 +23,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "mocha ./tests --recursive",
+   # "test": "mocha ./tests --recursive",
     "lint": "eslint ."
   }
 }
