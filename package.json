@@ -2,7 +2,7 @@
   "name": "github-actions-demo",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:cplee/github-actions-demo.git",
+  "repository": "https://github.com/rstubbia/github-actions-demo",
   "author": "Casey Lee <cplee@nektos.com>",
   "license": "MIT",
   "dependencies": {
